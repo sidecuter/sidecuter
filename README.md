@@ -1,6 +1,6 @@
 ### Hi there. It's sidecuter
 
-## Known langs and tech:
+## Known langs and tech
 
 [![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=CSharp&color=blue&logo=C+Sharp&logoColor=FFFFFF&label=)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)](https://dotnet.microsoft.com/en-us/)

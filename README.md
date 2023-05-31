@@ -11,7 +11,7 @@
 -->
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidecuter&theme=codeSTACKr&langs_count=3)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidecuter&theme=codeSTACKr&langs_count=5)]()
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=sidecuter&show_icons=true&theme=codeSTACKr)]()
 
